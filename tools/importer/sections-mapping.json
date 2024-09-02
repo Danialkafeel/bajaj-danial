@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1",
+    "path": "/nav",
+    "sections": [
+      {
+        "id": "1-1",
+        "blocks": [],
+        "settings": {}
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "path": "/index",
+    "sections": [
+      {
+        "id": "2-1",
+        "blocks": [
+          {
+            "id": "box-id-1423012652",
+            "x": 24,
+            "y": 770,
+            "width": 1220,
+            "height": 279,
+            "xpath": "/html[1]/body[1]/section[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]",
+            "layout": {
+              "numCols": 1,
+              "numRows": 2
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/section[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/section[1]/div[1]",
+                "xpathWithDetails": "id(\"container-58cc09b416\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12 aem-Grid--phone--12\"]/div[@class=\"responsivegrid hp-grid-two aem-GridColumn--default--none aem-GridColumn--phone--none aem-GridColumn--phone--12 aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--offset--phone--0 aem-GridColumn--offset--default--0\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12 aem-Grid--phone--12\"]/div[@class=\"listingtileswithscroll componentseo aem-GridColumn--phone--12 aem-GridColumn aem-GridColumn--default--12\"]/section[@class=\"carousel-style listing-tiles-scroll\"]/div[@class=\"listing-tiles-scroll__header flex-row-align-center\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/section[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/section[1]/div[2]",
+                "xpathWithDetails": "id(\"random669854\")"
+              }
+            ],
+            "color": "rgba(0, 0, 255, 0.3)",
+            "mapping": "cards",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id--274152887",
+            "x": 40,
+            "y": 3122,
+            "width": 1188,
+            "height": 231,
+            "xpath": "/html[1]/body[1]/section[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[16]/section[1]/div[2]",
+            "layout": {
+              "numCols": 1,
+              "numRows": 2
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/section[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[16]/section[1]/div[2]/div[1]",
+                "xpathWithDetails": "id(\"random991793\")/div[@class=\"swiper hp-listing-tiles__carousel swiper-initialized swiper-horizontal swiper-backface-hidden\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/section[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[16]/section[1]/div[2]/span[1]",
+                "xpathWithDetails": "id(\"random991793\")/span[@class=\"view-all-cta flex\"]"
+              }
+            ],
+            "color": "rgba(0, 0, 255, 0.2)",
+            "mapping": "cards",
+            "customBlockName": "bike"
+          }
+        ],
+        "settings": {}
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "path": "/footer",
+    "sections": [
+      {
+        "id": "3-1",
+        "blocks": [
+          {
+            "id": "box-id--1102402302",
+            "x": 0,
+            "y": 8031,
+            "width": 1268,
+            "height": 638,
+            "xpath": "/html[1]/body[1]/div[1]",
+            "layout": {
+              "numCols": 1,
+              "numRows": 7
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]",
+                "xpathWithDetails": "id(\"footer-c728085953\")/footer[@class=\"xaop-footer fs-14\"]/div[@class=\"xaop-footer__go-to-top flex flex-align-center flex-jc-center\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[2]",
+                "xpathWithDetails": "id(\"footer-c728085953\")/footer[@class=\"xaop-footer fs-14\"]/div[@class=\"footerType1\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[3]",
+                "xpathWithDetails": "id(\"footer-c728085953\")/footer[@class=\"xaop-footer fs-14\"]/div[@class=\"footerType2\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[4]",
+                "xpathWithDetails": "id(\"footer-c728085953\")/footer[@class=\"xaop-footer fs-14\"]/div[@class=\"footerType1\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[5]",
+                "xpathWithDetails": "id(\"footer-c728085953\")/footer[@class=\"xaop-footer fs-14\"]/div[@class=\"footerType1\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[6]",
+                "xpathWithDetails": "id(\"footer-c728085953\")/footer[@class=\"xaop-footer fs-14\"]/div[@class=\"footerType1\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[7]",
+                "xpathWithDetails": "id(\"footer-c728085953\")/footer[@class=\"xaop-footer fs-14\"]/div[@class=\"xaop-footer__bottom p-16\"]"
+              }
+            ],
+            "color": "rgb(0, 255, 0)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      }
+    ]
+  }
+]
